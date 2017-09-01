@@ -1,0 +1,1 @@
+﻿java -jar sqlGen.jar C:\Users\Administrator\Desktop\test

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: ojdbc6.jar commons-lang3-3.4.jar logback-core-1.1.7.jar my
+ sql-connector-java-5.1.34.jar slf4j-api-1.7.21.jar logback-access-1.1
+ .7.jar logback-classic-1.1.7.jar commons-net-3.6.jar
+Main-Class: com.timesbigdata.sqlGen.LoadAllData
+

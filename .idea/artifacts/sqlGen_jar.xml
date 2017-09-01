@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="sqlGen:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/sqlGen_jar</output-path>
+    <root id="root">
+      <element id="archive" name="sqlGen.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="sqlGen" />
+      </element>
+      <element id="library" level="project" name="ojdbc6" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.7" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.34" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-access:1.1.7" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.7" />
+      <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+    </root>
+  </artifact>
+</component>
